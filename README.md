@@ -1,5 +1,5 @@
 # Image-Classification-TFJS
- Image Classification using Tensorflow.js library
+ Image Classification using Tensorflow.js library, could be tested by [this link](https://mrcrambo.github.io/Image-Classification-TFJS/)
 
 ## About
 
@@ -27,7 +27,7 @@ const result = await net.classify(your image element);
 
 ## Usage
 
-You can test it using this [link](https://mrcrambo.github.io/Image-Classification-TFJS/). In case you will try to build it on your way, just remove `index.html` file from sourse and leave it only in `templates` folder, then follow instructions below:
+In case you will try to build it on your way, just remove `index.html` file from sourse and leave it only in `templates` folder, then follow instructions below:
 
 - Clone the repo
 ```bash
