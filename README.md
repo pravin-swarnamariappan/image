@@ -25,7 +25,7 @@ const result = await net.classify(your image element);
 // that's it!
 ```
 
-## Installation
+## Usage
 
 - Clone the repo
 ```bash
